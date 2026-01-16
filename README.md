@@ -1,99 +1,31 @@
-# 👋 Hi, I'm **ExoNiteVX**
+👋 Hi, I'm ExoNiteVX
 
-**Student • Cybersecurity Learner • Python Developer**
+🎓 Student | 🛡️ Cybersecurity Learner | 🐍 Python Developer
 
----
+I focus on fundamentals first, then build with hands-on labs and projects.
 
-## 🎯 About Me
+🧠 Currently Learning
 
-I’m a motivated student building a **strong, practical foundation** in cybersecurity and programming.
-My learning style is simple and effective:
+Cybersecurity (offensive & defensive basics)
 
-* 🔍 **Understand fundamentals first**
-* 🧪 **Practice hands-on through labs and projects**
-* 🛠️ **Apply tools only after concepts are clear**
+Python & SQL
 
----
+Practical security labs
 
-## 🧠 Current Focus
+🛠️ Skills
 
-* 🛡️ **Cybersecurity** — offensive & defensive fundamentals
-* 🐍 **Python Programming**
-* 🧪 **Practical security labs & exercises**
+Programming: Python, SQL
 
----
+Security: InfoSec, Pentesting basics, Defensive concepts
 
-## 🛠️ Skills
+AI/ML: LLMs, ML fundamentals
 
-### 💻 Programming
+🎯 Goals
 
-* **Python**
-* **SQL**
+Advance in penetration testing
 
-### 🔐 Cybersecurity
+Strengthen defensive security
 
-* Information Security fundamentals
-* Penetration testing basics
-* Defensive security concepts
+Build real-world projects
 
-### 🤖 AI & ML (Foundations)
-
-* Large Language Models (LLMs)
-* Machine Learning basics
-
----
-
-## 📜 Certifications
-
-### 🎓 Mimo
-
-* SQL
-* Python
-* Python AI Development
-* Game Development with AI
-
-### 🎓 SoloLearn
-
-* Python Intermediate
-* SQL Intermediate
-* Introduction to LLMs
-* Machine Learning for Beginners
-
-### 🎓 Cursa
-
-* Information Security
-
-### 🌍 Language
-
-* **IELTS** — Band **7.0**
-
----
-
-## 🧭 Learning Principles
-
-* 📈 **Consistency over speed**
-* 🧩 **Fundamentals before advanced tools**
-* 🛠️ **Learn by building & experimenting**
-
----
-
-## 🎯 Goals
-
-* Advance in **penetration testing**
-* Strengthen **defensive security** knowledge
-* Build **real-world, practical projects**
-* Improve **analytical & problem-solving** skills
-
----
-
-## 📊 GitHub Usage
-
-This GitHub is used to:
-
-* 📌 Track learning progress
-* 🗂️ Store practice projects
-* 🧪 Experiment with cybersecurity & programming concepts
-
----
-
-⭐ *Always learning. Always building.*
+⭐ Always learning. Always building.
