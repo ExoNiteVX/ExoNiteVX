@@ -1,34 +1,81 @@
-## 👋 Hi, I'm ExoNiteVX
-🎓 Student | 🛡️ Cybersecurity Learner | 🐍 Python Developer
+<div align="center">
+
+# 👋 Hi, I'm ExoNiteVX  
+### 🎓 Prospective Computer Science & Cybersecurity Student  
+### 🐍 Python Developer | 🛡️ Security Enthusiast  
 
 ---
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🛡️-red?style=for-the-badge)
---------------
 
-### 🧠 Currently Learning
-- Cybersecurity (offensive & defensive basics)
-- Python & SQL
-- Practical security labs
+![Profile Views](https://komarev.com/ghpvc/?username=ExoNiteVX&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/ExoNiteVX?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/ExoNiteVX?style=for-the-badge)
 
---------------
+---
 
-### 🛠️ Skills
-- Programming: Python, SQL
-- Security: InfoSec, Pentesting basics, Defensive concepts
-- AI/ML: LLMs, ML fundamentals
+## 🛡️ TECH STACK
 
---------------
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0B0B0B?style=for-the-badge&logo=security&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-### 🎯 Goals
-- Advance in penetration testing
-- Strengthen defensive security
-- Build real-world projects
+---
 
---------------
+## 👨‍💻 ABOUT ME
+I am a highly motivated student focused on **Computer Science**, **Cybersecurity**, and **secure software engineering**.  
+I enjoy breaking systems, understanding how they work internally, and rebuilding them stronger.
 
-⭐ Always learning. Always building.
+I am currently preparing for top-tier university programs while building real-world projects, strengthening my mathematical foundation, and advancing my security skills.
 
+---
+
+## 🧠 CURRENTLY LEARNING
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Fundamentals-0B0B0B?style=for-the-badge)
+![Python Backend](https://img.shields.io/badge/Django%20Backend-092E20?style=for-the-badge)
+![Databases](https://img.shields.io/badge/SQL%20Databases-003B57?style=for-the-badge)
+![Networking](https://img.shields.io/badge/Networking%20Basics-005C99?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux%20Internals-000000?style=for-the-badge)
+
+---
+
+## 🚀 PROJECT DOMAINS
+
+![Security Tools](https://img.shields.io/badge/Security%20Tools-8B0000?style=for-the-badge)
+![Backend Systems](https://img.shields.io/badge/Backend%20Systems-2F4F4F?style=for-the-badge)
+![AI Experiments](https://img.shields.io/badge/AI%20Experiments-4B0082?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-228B22?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
+
+---
+
+## 🎯 GOALS
+
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-8B0000?style=for-the-badge)
+![Defensive Security](https://img.shields.io/badge/Defensive%20Security-2F4F4F?style=for-the-badge)
+![Secure Systems](https://img.shields.io/badge/Secure%20Systems-000000?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge)
+
+---
+
+## 📊 GITHUB STATS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ExoNiteVX&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ExoNiteVX&layout=compact&theme=dark)
+
+---
+
+## 🏆 ACHIEVEMENTS
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ExoNiteVX&theme=darkhub)
+
+---
+
+⭐ **Always learning. Always building. Always improving.**
+
+</div>
