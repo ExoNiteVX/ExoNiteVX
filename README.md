@@ -61,20 +61,18 @@ I am currently preparing for top-tier university programs while building real-wo
 ![Secure Systems](https://img.shields.io/badge/Secure%20Systems-000000?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge)
 
----
-
 ## 📊 GITHUB STATS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ExoNiteVX&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ExoNiteVX&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ExoNiteVX&show_icons=true&count_private=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ExoNiteVX&layout=compact&hide_border=true)
 
 ---
 
 ## 🏆 ACHIEVEMENTS
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=ExoNiteVX&theme=darkhub)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ExoNiteVX&no-frame=true&margin-w=15)
 
----
 
 ⭐ **Always learning. Always building. Always improving.**
 
