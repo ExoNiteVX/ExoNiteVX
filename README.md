@@ -29,9 +29,6 @@
 ## 👨‍💻 ABOUT ME
 I am a highly motivated student focused on **Computer Science**, **Cybersecurity**, and **secure software engineering**.  
 I enjoy breaking systems, understanding how they work internally, and rebuilding them stronger.
-
-I am currently preparing for top-tier university programs while building real-world projects, strengthening my mathematical foundation, and advancing my security skills.
-
 ---
 
 ## 🧠 CURRENTLY LEARNING
